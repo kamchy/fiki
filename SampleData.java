@@ -12,7 +12,7 @@ class SampleData {
   static String randomWord(int len) {
     char[] array = new char[len];
     for (int i = 0; i < len; i++) {
-      array[i] = (char)r.nextInt(256);
+      array[i] = (char)((int)'a' + r.nextInt(25));
     }
     return new String(array);
   }

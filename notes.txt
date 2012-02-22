@@ -1,0 +1,12 @@
+How to setup git repo
+http://help.github.com/win-set-up-git/
+
+Git heet sheet: 
+http://www.ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;
+
+Book
+http://progit.org/book/
+
+stack overflow:
+http://stackoverflow.com/questions/tagged/git
+

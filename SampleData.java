@@ -1,11 +1,11 @@
 import java.util.*;
 class SampleData {
   private static final Random r = new Random();
-  static List<String> generate(int seed, int count) {
+  static List<String> generate(int seed, int count, int length) {
     List<String> list = new ArrayList<String>();
     r.setSeed(seed);
     for (int i = 0; i < count; i++) {
-      list.add(randomWord(10));
+      list.add(randomWord(length));
     }
     return list;
   }

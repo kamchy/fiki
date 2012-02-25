@@ -10,3 +10,9 @@ http://progit.org/book/
 stack overflow:
 http://stackoverflow.com/questions/tagged/git
 
+sample project:
+- commiting
+- creating branches
+- merging
+- resolving conflicts
+
